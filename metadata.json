@@ -1,0 +1,12 @@
+{
+  "name": "Remix: WhatsVirtual",
+  "description": "Um aplicativo de mensagens estilo WhatsApp que não exige chip físico. Cada usuário recebe um número virtual exclusivo permanente para cadastro e recuperação de conta, com chamadas, áudios e criptografia de ponta a ponta.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
